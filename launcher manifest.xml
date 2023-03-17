@@ -6,12 +6,11 @@
                       processorArchitecture="X86"
                       name="%(name)s"
                       type="win32"/>
-    <!-- Identify the application security requirements. -->
+    <!-- Identify theasdasd application security requirements. -->
     <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
         <security>
             <requestedPrivileges>
                 <requestedExecutionLevel level="asInvoker" uiAccess="false"/>
-            </requestedPrivileges>
-        </security>
+            </requestedPrasdadsecurity>
     </trustInfo>asdasdsa
 </assembly>
